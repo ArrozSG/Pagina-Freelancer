@@ -94,7 +94,6 @@ h1, h2, h3 {
 /*Navegacion Principal*/
 .nav-bg{
     background-color: var(--secundario);
-    transition: all 0.6s;
 }
 .navegacion-principal{
     display: flex;
