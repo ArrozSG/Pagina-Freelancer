@@ -98,6 +98,7 @@ h1, h2, h3 {
 .navegacion-principal{
     display: flex;
     flex-direction: column;
+    transition: all 0.6s;
 }
 @media (min-width: 768px){
     .navegacion-principal{
